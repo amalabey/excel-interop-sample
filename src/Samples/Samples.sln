@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.27703.2026
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ExcelInterop.Basic", "ExcelInterop.Basic\ExcelInterop.Basic.csproj", "{9226180E-2322-47DC-887E-2586C9742EAA}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ExcelInterop.WebApi", "ExcelInterop.WebApi\ExcelInterop.WebApi.csproj", "{23AD0CDD-7BF1-4E59-8AAE-5E50D5DADE4D}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{9226180E-2322-47DC-887E-2586C9742EAA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9226180E-2322-47DC-887E-2586C9742EAA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9226180E-2322-47DC-887E-2586C9742EAA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9226180E-2322-47DC-887E-2586C9742EAA}.Release|Any CPU.Build.0 = Release|Any CPU
+		{23AD0CDD-7BF1-4E59-8AAE-5E50D5DADE4D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{23AD0CDD-7BF1-4E59-8AAE-5E50D5DADE4D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{23AD0CDD-7BF1-4E59-8AAE-5E50D5DADE4D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{23AD0CDD-7BF1-4E59-8AAE-5E50D5DADE4D}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {4A685689-5A80-48E2-85BB-4D6B9CCA9E6A}
+	EndGlobalSection
+EndGlobal
